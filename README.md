@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Hey there! I'm Ian.
+## Hey there! I'm Jalpesh.
 
 <p align='center'>
 <a href="mailto:jalpesh.vadgama@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>Hello Friends, This is Jalpesh Vagdama, 9 Times Microsoft MVP, co-founder at FutureStack Solution, Developer, Mentor and Life long learner. I have got 15+ Years of experience full stack development.  </p>
+<p>Hello Friends, I am Jalpesh, 9 Times Microsoft MVP, co-founder at FutureStack Solution, Developer, Mentor and Life long learner. I have got 15+ Years of experience full stack development.  </p>
 
 ### 👨🏽‍💻Tech Stack
 
