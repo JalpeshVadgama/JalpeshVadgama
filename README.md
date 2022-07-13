@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="mailto:jalpesh.vadgama@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href=" http://www.linkedin.com/in/jalpeshvadgama/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jalpeshvadgama/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Jalpesh"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
 </p>
 
