@@ -10,7 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>Hello Friends, I am Jalpesh, 10 Times Microsoft MVP, Co-founder at FutureStack Solution, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
+<p>Hello Friends, I am Jalpesh, 10 Times Microsoft MVP, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
 
 ### 👨🏽‍💻Tech Stack
 
