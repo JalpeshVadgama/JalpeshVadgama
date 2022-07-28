@@ -37,7 +37,7 @@ Check out what I'm currently involved in.
 
 Here are some things on my todo list.
 
-- React, Redux and Recoil
+- Redux(Advance) and Recoil
 - Azure Container
 
 ---
