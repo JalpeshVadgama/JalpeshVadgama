@@ -18,7 +18,7 @@
 Here are a few things I've picked up along my learning journey.
 </p>
 
-- 🗣 C# 𒑰 TypeScript 𒑰 Angular 𒑰 Vue 𒑰 ASP.NET 𒑰 ASP.NET Core 
+- 🗣 C# 𒑰 TypeScript 𒑰 Angular 𒑰 Vue 𒑰 React 𒑰ASP.NET 𒑰 ASP.NET Core 
 - 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
 - ☁ Azure
 
