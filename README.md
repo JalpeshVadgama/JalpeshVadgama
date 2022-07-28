@@ -18,8 +18,8 @@
 Here are a few things I've picked up along my learning journey.
 </p>
 
-- 🗣 C# 𒑰 TypeScript 𒑰 Angular 𒑰 Vue 𒑰 React 𒑰ASP.NET 𒑰 ASP.NET Core 
-- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
+- 🗣 C# 𒑰 TypeScript 𒑰 Angular 𒑰 Vue 𒑰 React 𒑰 ASP.NET MVC 𒑰 ASP.NET Core 𒑰 ASP.NET Web Forms
+- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 SQL Server 𒑰 MYSQL 𒑰 PostgrelSQL 𒑰 Mondgodb
 - ☁ Azure
 
 
