@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jalpesh.
+### Hi there 👋 I'm Jalpesh P.  Vadgama.
 
 <p align='center'>
 <a href="mailto:jalpesh.vadgama@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>Hello Friends, I am Jalpesh, 11 Times Microsoft MVP, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
+<p>Hello Friends, I am Jalpesh Pravinchandra Vadgama, 11 Times Microsoft MVP, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
 
 ### 👨🏽‍💻Tech Stack
 
