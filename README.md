@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jalpesh P.  Vadgama.
+### Hi there 👋 I'm Jalpesh Vadgama
 
 <p align='center'>
 <a href="mailto:jalpesh.vadgama@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
