@@ -10,7 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>Hello Friends, I am Jalpesh Pravinchandra Vadgama, 11 Times Microsoft MVP, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
+<p>Hello Friends, I am Jalpesh Pravinchandra Vadgama, 12 Times Microsoft MVP, Developer, Mentor and Life long learner. I have 15+ Years of experience full stack development.  </p>
 
 ### 👨🏽‍💻Tech Stack
 
@@ -28,14 +28,14 @@ Here are a few things I've picked up along my learning journey.
 <p>
 Check out what I'm currently involved in.
 
-- Currently, building my youtube channel, #CodeWithJV# at https://bit.ly/CodeWithJV. Please do subscribe to this channel, AS I am putting some useful content on my video. 
-- Doing some open source examples. Which you can see in the my github.
+I- Currently, building my youtube channel, #CodeWithJV# at https://bit.ly/CodeWithJV. Please do subscribe to this channel, AS I am putting some useful content on my video. 
+- Doing some open-source examples. Which you can see in my github.
 
 </p>
 
 ### 🌱What I'm Learning
 
-Here are some things on my todo list.
+Here are some things on my to-do list.
 
 - Redux(Advance) and Recoil
 - Azure Container
