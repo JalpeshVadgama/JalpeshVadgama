@@ -33,12 +33,14 @@ I- Currently, building my youtube channel, #CodeWithJV# at https://bit.ly/CodeWi
 
 </p>
 
-### 🌱What I'm Learning
+### 🌱What I'm Learning/Exploring
 
 Here are some things on my to-do list.
 
-- Redux(Advance) and Recoil
-- Azure Container
+- Ptyhon 
+- AI
+- Data Science
+- Machine Learning 
 
 ---
 
